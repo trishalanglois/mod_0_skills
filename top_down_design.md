@@ -2,10 +2,10 @@
   1.1 Complete initial online application  
     1.1.1 Upload resume  
     1.1.2 Complete timed logic portion      
-      1.1.2.1 Open computer  
-      1.1.2.2 Click start  
-      1.1.2.3 Complete question  
-      1.1.2.4 Move on to next question  
+      * 1.1.2.1 Open computer  
+      * 1.1.2.2 Click start  
+      * 1.1.2.3 Complete question  
+      * 1.1.2.4 Move on to next question  
   1.2 Technical interview  
     1.2.1 Read question   
     1.2.2 Talk through logic problem with interviewer  
