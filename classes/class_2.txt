@@ -1,0 +1,14 @@
+Class: Teacher
+
+Attributes:
+hair_color (string)
+height (float)
+subject_teach (string)
+number_students (integer)
+assign_project (integer)
+
+Methods:
+dye_hair (change hair_color)
+new_class (change subject_teach)
+grade_projects (number_students * assign_project)
+expel_student (change number_students)
