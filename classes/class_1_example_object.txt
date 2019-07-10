@@ -1,0 +1,14 @@
+Object: mechanical Pencil
+
+Attributes:
+color (string): purple
+length_inches (float): 5.5
+brand (string): pentel
+mechanical (boolean): true
+sharp (boolean): true
+
+Methods:
+sharpen (change sharp from false to true): true
+break_in_half (decrease length): 5.5 / 2 = 2.75
+write (change sharp from true to false) = false
+color_outside (change color) = black
