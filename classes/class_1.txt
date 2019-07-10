@@ -1,0 +1,14 @@
+Class: Pencil
+
+Attributes:
+color (string)
+length (float)
+brand (string)
+mechanical (boolean)
+sharp (boolean)
+
+Methods:
+sharpen (change sharp from false to true)
+break (decrease length)
+write (change sharp from true to false)
+color_outside (change color)
