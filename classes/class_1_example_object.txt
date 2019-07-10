@@ -1,4 +1,4 @@
-Object: mechanical Pencil
+Object: mechanical pencil
 
 Attributes:
 color (string): purple
