@@ -1,0 +1,14 @@
+Object: Mr. Taga
+
+Attributes:
+hair_color (string): black
+height_feet (float): 6.083
+subject_teach (string): algebra
+number_students (integer): 80
+assign_project (integer): 2
+
+Methods:
+dye_hair (change hair_color): purple
+new_class (change subject_teach): statistics
+grade_projects (number_students * assign_project): 160
+expel_student (change number_students): 79
