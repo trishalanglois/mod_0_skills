@@ -1,7 +1,7 @@
 1. Apply to Turing  
   1.1 Complete initial online application  
     1.1.1 Upload resume  
-    1.1.2 Complete timed logic portion  
+    1.1.2 Complete timed logic portion    
       1.1.2.1 Open computer  
       1.1.2.2 Click start  
       1.1.2.3 Complete question  
